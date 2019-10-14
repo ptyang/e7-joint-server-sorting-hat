@@ -27,5 +27,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "homepage": "https://ptyang.github.io/e7-joint-server-sorting-hat",
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
   }
 }
