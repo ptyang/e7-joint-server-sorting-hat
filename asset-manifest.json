@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/e7-joint-server-sorting-hat/static/css/main.04ffee74.chunk.css",
+    "main.js": "/e7-joint-server-sorting-hat/static/js/main.8bf81331.chunk.js",
+    "main.js.map": "/e7-joint-server-sorting-hat/static/js/main.8bf81331.chunk.js.map",
+    "runtime-main.js": "/e7-joint-server-sorting-hat/static/js/runtime-main.ede8ca46.js",
+    "runtime-main.js.map": "/e7-joint-server-sorting-hat/static/js/runtime-main.ede8ca46.js.map",
+    "static/js/2.3e836a62.chunk.js": "/e7-joint-server-sorting-hat/static/js/2.3e836a62.chunk.js",
+    "static/js/2.3e836a62.chunk.js.map": "/e7-joint-server-sorting-hat/static/js/2.3e836a62.chunk.js.map",
+    "index.html": "/e7-joint-server-sorting-hat/index.html",
+    "precache-manifest.e65cfab79edb5e8b1ce46435ffd73308.js": "/e7-joint-server-sorting-hat/precache-manifest.e65cfab79edb5e8b1ce46435ffd73308.js",
+    "service-worker.js": "/e7-joint-server-sorting-hat/service-worker.js",
+    "static/css/main.04ffee74.chunk.css.map": "/e7-joint-server-sorting-hat/static/css/main.04ffee74.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ede8ca46.js",
+    "static/js/2.3e836a62.chunk.js",
+    "static/css/main.04ffee74.chunk.css",
+    "static/js/main.8bf81331.chunk.js"
+  ]
+}
