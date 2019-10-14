@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "56f708e753c5c9030352c75f9fe2c393",
+    "revision": "a9def002a70250ec8345072bd4d728a3",
     "url": "/e7-joint-server-sorting-hat/index.html"
   },
   {
